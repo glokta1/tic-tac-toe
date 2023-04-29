@@ -1,5 +1,10 @@
 A Pygame implementation of Tic-Tac-Toe.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71697384/235282898-f2b64ece-4efa-49c8-b1ec-3d2b8823b52d.png" width="250" align="center">
+</p>
+
+
 A little practice project to get my feet wet with Pygame.
 
 ## How to run
@@ -11,13 +16,13 @@ A little practice project to get my feet wet with Pygame.
 
     `pip install poetry`
 
-3. `cd` into project root and run:
+3. Navigate to project root and run:
 
     `poetry install`
 
     to install all dependences.
 
-4. `python main.py`
+4. Run `python main.py`
 
 
 
