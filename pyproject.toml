@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "tictactoe"
+version = "0.1.0"
+description = "Tic tac toe implemented using Pygame."
+authors = ["glokta1 <rafeyahmad@protonmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.3.0"
+numpy = "^1.24.3"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
